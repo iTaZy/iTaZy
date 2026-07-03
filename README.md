@@ -19,7 +19,7 @@
 ### Projeto em destaque: HoK HuB
 
 <p align="center">
-  <img src="C:\TaZy/HokHub_logo" alt="HoK HuB" width="80%" />
+  <img src="C:\TaZy\HokHub_logo" alt="HoK HuB" width="80%" />
 </p>
 
 Plataforma competitiva para jogadores de Honor of Kings, com matchmaking automático por MMR, draft entre capitães, integração com Discord (criação automática de canais de voz por partida), feed da comunidade e chat em tempo real.
