@@ -26,7 +26,7 @@ Plataforma competitiva para jogadores de Honor of Kings, autentificação + logi
 
 **Stack:** React + Vite no front-end · Firebase (Firestore, Realtime Database, Cloud Functions, Auth) no back-end.
 
-🔗 [Ver repositório do HoK HuB](https://github.com/iTaZy/hok-plataforma)
+🔗 [Ver repositório do HoK HuB](https://github.com/iTaZy/hok_plataforma)
 
 ---
 
