@@ -22,11 +22,11 @@
   <img src="https://github.com/user-attachments/assets/63177c03-e9cf-4142-97c4-41e3dd5ff15b" alt="HoK HuB" width="50%" />
 </p>
 
-Plataforma competitiva para jogadores de Honor of Kings, com matchmaking automático por MMR, draft entre capitães, integração com Discord (criação automática de canais de voz por partida), feed da comunidade e chat em tempo real.
+Plataforma competitiva para jogadores de Honor of Kings, autentificação + login e senha, banco de dados completo com todos herois do jogo e detalhes individuais de cada um, uma aba de coaching com integração com o Whatsapp, matchmaking automático por MMR e ranking, draft entre capitães, integração com Discord (criação automática de canais de voz por partida), feed da comunidade e chat em tempo real.
 
 **Stack:** React + Vite no front-end · Firebase (Firestore, Realtime Database, Cloud Functions, Auth) no back-end.
 
-🔗 [Ver repositório do HoK HuB](https://github.com/seu-usuario/hok-plataforma)
+🔗 [Ver repositório do HoK HuB](https://github.com/iTaZy/hok-plataforma)
 
 ---
 
@@ -55,7 +55,7 @@ Plataforma competitiva para jogadores de Honor of Kings, com matchmaking automá
 ### Contato
 
 <p align="left">
-  <a href="mailto:seu-email@exemplo.com">Email</a> ·
-  <a href="https://linkedin.com/in/seu-usuario">LinkedIn</a> ·
-  <a href="https://discord.com/users/SEU_ID_AQUI">Discord</a>
+  <a href="mailto:contatoluizfelipe2002@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/luizfelipedeabreualves/">LinkedIn</a> ·
+  <a href="https://discord.com/users/410477130376282115">Discord</a>
 </p>
